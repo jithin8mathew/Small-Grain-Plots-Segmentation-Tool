@@ -28,8 +28,10 @@ Future releases:
 
 The code can be run after downloading the requirememts.txt packages by opeing the console and running:
 
+```python 
 python deploy.py
 
 or 
 
 python Geotif_tool.py
+```
