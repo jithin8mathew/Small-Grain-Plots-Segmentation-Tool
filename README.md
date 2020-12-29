@@ -13,6 +13,10 @@ The cropping can be performed using one of the 3 methods incorported into the to
 
 In adition to the above, images can be corrected by performing a rotation method to align the image to its position
 
+<br>
+![final_screenshot](https://github.com/jithin8mathew/RGB_CIR_imageCropping_tool/blob/main/images/final_screenshot.jpg)
+Format: ![User interface](url)
+<br>
 
 Future releases:
 
