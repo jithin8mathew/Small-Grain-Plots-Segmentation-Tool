@@ -15,7 +15,7 @@ In adition to the above, images can be corrected by performing a rotation method
 
 <br>
 ![Method1](https://github.com/jithin8mathew/Small-Grain-Plots-Segmentation-Tool/blob/main/images/Method1.jpg)
-Format: ![User interface](url)
+Format: ![Alt Text](url)
 <br>
 
 Future releases:
