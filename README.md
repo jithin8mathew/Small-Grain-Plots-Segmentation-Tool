@@ -14,7 +14,7 @@ The cropping can be performed using one of the 3 methods incorported into the to
 In adition to the above, images can be corrected by performing a rotation method to align the image to its position
 
 <br>
-![final_screenshot](https://github.com/jithin8mathew/RGB_CIR_imageCropping_tool/blob/main/images/final_screenshot.jpg)
+![Method1](https://github.com/jithin8mathew/Small-Grain-Plots-Segmentation-Tool/blob/main/images/Method1.jpg)
 Format: ![User interface](url)
 <br>
 
