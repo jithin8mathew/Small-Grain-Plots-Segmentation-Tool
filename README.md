@@ -1,6 +1,8 @@
 # Small-Grain-Plots-Segmentation-Tool
 A faster Dataset Creation Tool for Agriculture plot images captured aerial vehicles 
 
+![](app.gif)
+
 <h3>NDSU Precision Ag Group Small Grain Plots Segmentation Tool</h3> <p> is a Python based tool intended for faster dataset creation using a simple GUI. Data captured from drones can be exceedingly huge in terms of Memory. This tool aims at segmenting a large field into smaller individual plots using Python 3 and OpenCV 4.</p>
 
 The cropping can be performed using one of the 3 methods incorported into the tool:
