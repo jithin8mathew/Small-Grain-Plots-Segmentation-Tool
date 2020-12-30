@@ -1,5 +1,5 @@
 # Small-Grain-Plots-Segmentation-Tool
-A faster Dataset Creation Tool for Agriculture plot images captured aerial vehicles 
+A faster Dataset Creation Tool for Agriculture plot images captured using aerial vehicles 
 
 ![](app.gif)
 
@@ -43,4 +43,4 @@ or
 
 python Geotif_tool.py
 ```
-<p><i>Image processing is performed using CPU, therefore larger files tend to take longer time to upload, process and display. Further improvements will be made in the future updated versions.</i></p>
+<p><i>**Image processing is performed using CPU, therefore larger files tend to take longer time to upload, process and display. Further improvements will be made in the future updated versions.</i></p>
