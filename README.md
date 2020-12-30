@@ -16,8 +16,10 @@ The cropping can be performed using one of the 3 methods incorported into the to
 In adition to the above, images can be corrected by performing a rotation method to align the image to its position
 
 <br>
+
 ![Method1](https://github.com/jithin8mathew/Small-Grain-Plots-Segmentation-Tool/blob/main/images/Method1.jpg)
-Format: ![Alt Text](url)
+Format: ![](url)
+
 <br>
 
 Future releases:
@@ -27,7 +29,7 @@ Future releases:
 <li> Add more options </li>
   <li>Better GUI</li>
   <li>Faster computing time</li>
-  <li></li>
+  <li>Bug fixes</li>
 </ul>
 
 ### Running the file
